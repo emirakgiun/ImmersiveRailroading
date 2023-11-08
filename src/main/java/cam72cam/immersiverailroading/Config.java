@@ -68,7 +68,7 @@ public class Config {
 		@Comment("Break block around the border of the tracks in creative")
 		public static boolean enableSideBlockClearing = true;
 
-		@Comment("Clear blocsk in creative mode when placing tracks")
+		@Comment("Clear blocks in creative mode when placing tracks")
 		public static boolean creativePlacementClearsBlocks = true;
 
 		@Comment("Requires solid block to be placed under the rails")
